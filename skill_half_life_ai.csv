@@ -1,0 +1,21 @@
+skill_name,skill_category,ai_exposure_level,current_market_demand,skill_half_life_years,automation_risk,reskilling_frequency_years,learning_mode,industry
+Data Entry,Technical,85,40,2,90,1,Self-Learning,Finance
+Software Testing,Technical,70,65,4,75,2,Hybrid,Tech
+Python Programming,Technical,40,85,8,35,4,Self-Learning,Tech
+Machine Learning,Technical,30,90,10,25,5,Formal,Tech
+Prompt Engineering,Technical,20,75,6,20,3,Self-Learning,Tech
+Critical Thinking,Cognitive,15,88,12,10,6,Formal,Education
+Problem Solving,Cognitive,20,85,11,15,6,Hybrid,Consulting
+Creativity,Creative,10,80,14,8,7,Self-Learning,Media
+Graphic Design,Creative,55,70,6,50,3,Hybrid,Media
+Content Writing,Creative,65,68,5,60,2,Self-Learning,Media
+Manual Assembly,Manual,90,55,3,95,1,Formal,Manufacturing
+Quality Inspection,Manual,75,60,4,80,2,Hybrid,Manufacturing
+Healthcare Diagnosis,Cognitive,35,92,9,30,4,Formal,Healthcare
+Nursing Skills,Manual,25,95,12,20,6,Formal,Healthcare
+Financial Analysis,Technical,50,78,7,45,3,Hybrid,Finance
+Customer Support,Manual,60,72,5,55,2,Self-Learning,Services
+Cybersecurity,Technical,25,88,11,20,5,Formal,Tech
+Teaching,Cognitive,30,90,10,25,5,Hybrid,Education
+Operations Management,Cognitive,40,82,8,35,4,Formal,Logistics
+UX Design,Creative,45,76,7,40,3,Hybrid,Tech
